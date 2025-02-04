@@ -2,10 +2,7 @@ using System;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 using System.Xml.Linq;
-using System.Globalization;
-using System.Linq;
-using static _4_1.Program;
-using System.Dynamic;
+
 
 namespace _4_1
 {
